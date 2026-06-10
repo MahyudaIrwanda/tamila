@@ -2,3 +2,4 @@ yang perlu dipersiapkan
 - duit nikah
 - duit rumah
 - duit mobil
+- duit seserahan
